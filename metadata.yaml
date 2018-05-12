@@ -1,0 +1,34 @@
+_repo: Warrior-Race_29548
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sheckley, Robert
+    aliases:
+    - Barbee, Phillip
+    - Barbee, Phillips
+    - Lang, Ned
+    - O'Donnevan, Finn
+    birthdate: 1928
+    deathdate: 2005
+    gutenberg_agent_id: '2960'
+    url: http://www.gutenberg.org/2009/agents/2960
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Sheckley
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29548'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Warrior Race
+url: http://www.gutenberg.org/ebooks/29548
